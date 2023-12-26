@@ -1,0 +1,16 @@
+@import url(Styles/header.css);
+
+:root {
+	--marrom: #8E2424;
+	--branco: #FFFFFF;
+	--cinza: #667085;
+	--fonte-principal: "Inter", sans-serif;
+}
+
+* {
+     padding: 0;
+     margin: 0;
+}
+
+
+

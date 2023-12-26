@@ -1,0 +1,26 @@
+.cabecalho {
+	text-align: center;
+	padding: 96px 324px;
+}
+
+.cabecalho span {
+	color: var(--vermelho);
+	font-size: 16px;
+	margin-bottom: 24px;
+	font-family: var(--fonte-principal);
+	font-weight: 500; 
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 24px;
+	font-family: var(--fonte-principal);
+	font-weight: 500;
+}
+
+.cabecalho p {
+	color: var(--cinza);
+	font-size: 20px;
+	font-family: var(--fonte-principal);
+	font-weight: 400;
+}

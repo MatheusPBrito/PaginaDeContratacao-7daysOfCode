@@ -1,9 +1,11 @@
 @import url(Styles/header.css);
+@import url(Styles/cabecalho.css);
 
 :root {
 	--marrom: #8E2424;
 	--branco: #FFFFFF;
 	--cinza: #667085;
+	--vermelho: #8E2424;
 	--fonte-principal: "Inter", sans-serif;
 }
 

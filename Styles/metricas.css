@@ -1,0 +1,30 @@
+.metricas {
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 80px 96px 80px;
+}
+
+.metricas div {
+	margin: 0 32px 0 0;
+}
+
+.metricas__numero {
+	color: var(--vermelho);
+	font-size: 60px;
+	font-family: var(--fonte-principal);
+	font-weight: 600;
+}
+
+.metricas__titulo {
+	color: var(--preto);
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.metricas__paragrafo {
+	color: var(--cinza);
+	font-size: 16px;
+	font-weight: 400;
+	word-wrap: break-word;
+	width: 270px;
+}

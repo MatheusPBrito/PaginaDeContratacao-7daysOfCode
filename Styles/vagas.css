@@ -1,0 +1,28 @@
+.vagas {
+	text-align: center;
+	margin: 6em 5em 4em 5em;
+	font-family: var(--fonte-principal);
+}
+
+.vagas span {
+	background: var(--vermelho-secundario);
+	color: var(--vermelho);
+	margin-bottom: 1em;
+	font-size: 0.875em;
+	font-weight: 500;
+}
+
+.vagas h2 {
+	margin-bottom: 1.25em;
+	font-size: 2.25em;
+	font-weight: 600;
+}
+
+.vagas p {
+	margin-bottom: 4em;
+	font-size: 1.25em;
+        font-weight: 400;	
+	color: var(--cinza);
+}
+
+
